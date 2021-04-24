@@ -1,4 +1,4 @@
-# docsify-website-sample
+# Front-End-InterView
 
 This is my first repository for Front-End-InterView
-这是一个 docsify 网站模版。
+这是一个成嘉俊的个人博客 - 建立前端各类复盘之路，这是人类的一小步，确实懒人的一大步。
